@@ -1,4 +1,4 @@
-name: Pylint
+name: Simple CI Workflow
 
 on: [push]
 
